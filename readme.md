@@ -23,6 +23,6 @@ Ao ir ao Produtos (aba da navbar), aparece uma lista com alguns cadastros ja rea
 ## Tecnologias utilizadas:
 - `` HTML ``
 - `` PHP ``
-- `` Banco de dados (XAMPP)``
+- ``Banco de dados (XAMPP)``
 - `` CSS ``
 - ``Bootstrap ``
