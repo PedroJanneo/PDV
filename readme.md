@@ -13,10 +13,10 @@ Este projeto por sua vez, tem tres cruds inclusos:
 - Ususarios:
 Ao ir ao USUARIO (aba da navbar), aparece uma lista com alguns cadastros ja realizado, com algumas opções importantes (chaves), ao clicar no botão NOVO USUARIO, ele vai pedir algumas informações, nome, cpf, email, senha, e nivel (no qual no momento somente o nivel ADMINISTRADOR tem uma pagina), com o mesmo esquema que meu projeto anterior, tem duas opções nas AÇÕES, excluir e editar...
 
--Fornecedor:
+- Fornecedor:
 Ao ir ao FORNECEDOR (aba da navbar), aparece uma lista com alguns cadastros ja realizado, com algumas opções importantes (chaves), ao clicar no botão NOVO FORNECEDOR, ele vai pedir algumas informações, nome, cpf/cnpj, email, telefone, tipo de pessoa (fisia ou juridica) e endereco, com o mesmo esquema qanteriormente, mas agora tem tres opções nas AÇÕES, excluir ,editar e ver endereco.
 
--Produto/Categora:
+- Produto/Categora:
 Ao ir ao Produtos (aba da navbar), aparece uma lista com alguns cadastros ja realizado, com algumas opções importantes (chaves), ao clicar no botão NOVA CATEGORIA, ele vai pedir algumas informações, como Nome e foto, com o mesmo esquema que meu projeto anterior, tem duas opções nas AÇÕES, excluir e editar...
 
 
